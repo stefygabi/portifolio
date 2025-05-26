@@ -1,7 +1,7 @@
 🩺 Portfólio Profissional — Dra. Stefany Gomes
 CRM-SP: 123456
 📍 São Paulo – SP | 📧 stefany.Gomes@email.com | 📞 (11) 91234-5678
-🌐 linkedin.com/in/drastefanyoliveira
+🌐 linkedin.com/in/drstefanygomes
 
 👩‍⚕️ Sobre Mim
 Sou médica formada pela Universidade Federal de São Paulo (UNIFESP), com formação sólida ao longo de um currículo de 8 anos, integrando teoria, prática clínica e pesquisa. Tenho paixão pela medicina centrada no paciente e uma abordagem ética, empática e baseada em evidências. Atuo com responsabilidade e dedicação, especialmente nas áreas de Clínica Médica e Atenção Primária.
@@ -101,11 +101,11 @@ A medicina é meu compromisso com o cuidado, a ciência e a dignidade humana. Ac
 📎 Anexos disponíveis:
 Currículo Lattes
 
-Diploma de graduação
 
 
 
-)
+
+
 
 
 
